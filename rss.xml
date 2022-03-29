@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Xataka</title>
+      <link>http://feeds.weblogssl.com/xataka2</link>
+      <description>Feed Principal</description>
+      <language>es-ES</language>
+      <item> 
+         <title>Netflix</title>
+         <link>https://www.xataka.com/cine-y-tv/netflix-nos-ha-ahorrado-195-horas-repetitivo-visionado-simple-boton-a-cambio-ha-matado-arte</link>
+         <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+         <description>Netflix nos ahorra tiempo</description>
+      </item>
+      <item>
+         <title>Lampara IKEA</title>
+         <link>https://www.xataka.com/accesorios/esta-lampara-ikea-altavoz-bluetooth-que-disfrutar-mucho-spotify</link>
+         <pubDate>Wed, 02 Oct 2002 14:00:00 GMT</pubDate>
+         <description>Lampara de IKEA multiusos</description>
+      </item>
+   </channel>
+</rss>
